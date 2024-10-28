@@ -1,0 +1,14 @@
+# Binary/output files
+bin/
+obj/
+
+# Windows installer output/extracted files
+# installer/inno/
+# installer/windows-installer.exe
+
+# IDE Directories
+.vs/
+.idea/
+
+# Github
+.github
